@@ -10,6 +10,10 @@ const images = [
   "images/image-9.jpg",
   "images/image-10.jpg",
   "images/image-11.jpg",
+  "images/image-12.jpg",
+  "images/image-13.jpg",
+  "images/image-14.jpg",
+  "images/image-15.jpg",
 ];
 let imgIndex = 0;
 const imgElement = document.getElementById("slider-img");
